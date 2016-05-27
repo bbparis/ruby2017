@@ -1,0 +1,1 @@
+puts ('aaa'..'zzz').to_a.shuffle[0..5]
